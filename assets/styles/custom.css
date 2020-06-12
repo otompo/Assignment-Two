@@ -1,0 +1,71 @@
+
+
+
+.navbar{
+    background-color: #A19C9C;
+    
+}
+
+.navbar li a{
+    color: #fff;
+}
+.navbar a{
+    color: #fff;
+}
+
+.sec .card{
+    background-color: #A19C9C; 
+    height: 150px;
+    padding: 25px;
+    border: none;
+    font-size: medium;
+    font-weight: bold;
+}
+.sec .card a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.ghana-update{
+    background-color: #A19C9C; 
+    color: #fff;
+    font-size: 24px;
+    height: 50px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+/* 
+.img_sec{
+   height: 85%;
+} */
+
+#active .card{
+    margin:5px;
+    color: #fff;
+    text-align: center;
+    border: none;
+}
+
+#active .card_one{
+    background-color: #F97907;
+   
+}
+
+
+#active .card_two{
+    background-color: #FF7F7F;
+   
+}
+
+
+#active .card_three{
+    background-color: #009945;
+    
+}
+
+
+#active .card_four{
+    background-color: #FF0000;
+    
+}
